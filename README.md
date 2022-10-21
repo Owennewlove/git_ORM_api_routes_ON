@@ -35,10 +35,6 @@
      
      
   
-  ## Credits
-
-  N/A
-  
   
   
   ## License
@@ -48,15 +44,6 @@
   ---
   
   
-  ## How to Contribute
-
-  N/A
-  
-  
-
-  ## Tests
-
-  No tests
   
 
   ## Questions
